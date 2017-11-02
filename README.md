@@ -4,7 +4,7 @@ Example NodeJS project to demo Docker.
 
 # Prerequisites
 
-You need docker only, nothing else.
+You only need docker to run this demo.
 
 ## Install Docker on OS X
 
