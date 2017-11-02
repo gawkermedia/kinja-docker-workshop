@@ -22,7 +22,7 @@ You need docker only, nothing else.
 
  1. Build an image:
 
- `kinja-docker-workshop$ docker build -t kinja-docker-workshop`
+ `kinja-docker-workshop$ docker build . -t kinja-docker-workshop`
 
  2. Run the image:
 
